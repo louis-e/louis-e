@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=louis-e&show_icons=true" alt="louis-e" /></p>
 
-<a align="left" href="https://github.com/louis-e"><img src="badges.png" alt="badges"></a>
+<p align="left"> <img src="badges.png" alt="badges" /> </p>
