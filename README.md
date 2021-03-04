@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louis-e" alt="louis-e" /> </p>
 
-- 🔭 I’m currently working on **NASA API Projects**
+- 🔭 I’m currently working on **NASA API Projects / Embedded Microcontroller Development**
 
 - 🌌 Space & Science fanatic **https://github.com/louis-e/nasa-api-earthpolychromaticimagingcamera / https://github.com/louis-e/NANO-SAT-01**
 
