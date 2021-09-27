@@ -7,11 +7,11 @@
 
 - 🌌 Space & Science fanatic **https://github.com/louis-e/nasa-api-earthpolychromaticimagingcamera / https://github.com/louis-e/NANO-SAT-01**
 
-- 🚀 Check out my rocket landing simulator **https://louisdev.de/liftoff**
+- 🚀 Check out my rocket landing simulator **https://louisdev.de/liftoff** / [[Google Play Store]](https://play.google.com/store/apps/details?id=com.cherryfactory.liftoff)
 
-- 🌐 Check out my geocaching project **https://worldstones.de**
+- 🌐 Check out my international geocaching project **https://worldstones.de**
 
-- 🎮 Play my game on the Google Play Store [https://play.google.com/store/apps/details?id=com.cherryfactory.sortingbags](https://play.google.com/store/apps/details?id=com.cherryfactory.sortingbags)
+- 🎮 Play my games on the Google Play Store [https://play.google.com/store/apps/details?id=com.cherryfactory.liftoff](https://play.google.com/store/apps/details?id=com.cherryfactory.liftoff) / [https://play.google.com/store/apps/details?id=com.cherryfactory.sortingbags](https://play.google.com/store/apps/details?id=com.cherryfactory.sortingbags)
 
 - 📫 Reach me over **info@louisdev.de**
 
