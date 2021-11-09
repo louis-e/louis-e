@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NASA API Projects / Embedded Microcontroller Development**
 
-- 🌌 Space & Science fanatic **https://github.com/louis-e/nasa-api-earthpolychromaticimagingcamera / https://github.com/louis-e/NANO-SAT-01**
+- 🌌 Space & Science fanatic **https://github.com/louis-e/astropicam / https://github.com/louis-e/nasa-api-earthpolychromaticimagingcamera / https://github.com/louis-e/NANO-SAT-01**
 
 - 🚀 Check out my rocket landing simulator **https://louisdev.de/liftoff** / [[Google Play Store]](https://play.google.com/store/apps/details?id=com.cherryfactory.liftoff)
 
