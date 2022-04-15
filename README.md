@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louis-e" alt="louis-e" /> </p>
 
-- 🔭 I’m currently working on **a remote telescope camera**
+- 🔭 I’m currently working on **a shell remote screen viewer**
 
 - 🌌 Space & Science fanatic **https://github.com/louis-e/astropicam / https://github.com/louis-e/nasa-api-earthpolychromaticimagingcamera / https://github.com/louis-e/NANO-SAT-01**
 
