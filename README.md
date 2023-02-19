@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louis-e" alt="louis-e" /> </p>
 
-- 🔭 I’m currently working on **a Minecraft city generator algorithm**
+- 🔭 I’m currently working on **a Library of Babel Python implementation**
 
-- 🌌 Space & Science fanatic **https://github.com/louis-e/astropicam / https://github.com/louis-e/nasa-api-earthpolychromaticimagingcamera / https://github.com/louis-e/NANO-SAT-01**
+- 🌌 Space & Science fanatic **https://github.com/louis-e/mars-rover-camera-scraper / https://github.com/louis-e/astropicam / https://github.com/louis-e/nasa-api-earthpolychromaticimagingcamera**
 
 - 🚀 Check out my rocket landing simulator **https://louisdev.de/liftoff** / [[Google Play Store]](https://play.google.com/store/apps/details?id=com.cherryfactory.liftoff)
 
