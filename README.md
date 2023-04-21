@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Louis</h1>
 <h3 align="center">Software Developer</h3>
 
-[![wakatime](https://wakatime.com/badge/user/731b2c19-257a-423c-b667-818a4597635e.svg)](https://wakatime.com/@731b2c19-257a-423c-b667-818a4597635e)
+[![wakatime](https://wakatime.com/badge/user/731b2c19-257a-423c-b667-818a4597635e.svg?style=flat)](https://wakatime.com/@731b2c19-257a-423c-b667-818a4597635e)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=louis-e" alt="louis-e" /> </p> -->
 
 - 📚 I’m currently working on **a Library of Babel algorithm Python implementation**
