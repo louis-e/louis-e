@@ -6,15 +6,15 @@
 
 - 📚 I’m currently working on **a Library of Babel algorithm Python implementation**
 
-- 🏙️ Minecraft Real Life City Generator **https://github.com/louis-e/arnis**
+- 🏙️ Minecraft Real Life City Generator Algorithm **[Arnis](https://github.com/louis-e/arnis)**
 
-- 🌌 Space & Science fanatic **https://louisdev.de/mars / https://github.com/louis-e/mars-rover-camera-scraper / https://github.com/louis-e/astropicam / https://github.com/louis-e/nasa-api-earthpolychromaticimagingcamera**
+- 🌌 Space & Science fanatic **[Mars](https://louisdev.de/mars) / [Scraper](https://github.com/louis-e/mars-rover-camera-scraper) / [Astropicam](https://github.com/louis-e/astropicam) / [EPIC](https://github.com/louis-e/nasa-api-earthpolychromaticimagingcamera)**
 
 - 🌐 Check out my international geocaching project **https://worldstones.de**
 
-- 🚀 Check out my rocket landing simulator **https://louisdev.de/liftoff / [[Google Play Store]](https://play.google.com/store/apps/details?id=com.cherryfactory.liftoff)**
+- 🎮 Play my games on the Google Play Store **[Liftoff](https://play.google.com/store/apps/details?id=com.cherryfactory.liftoff) ([Web Version](https://louisdev.de/liftoff)) / [SortingBags](https://play.google.com/store/apps/details?id=com.cherryfactory.sortingbags)**
 
-- 🎮 Play my games on the Google Play Store **https://play.google.com/store/apps/details?id=com.cherryfactory.liftoff / https://play.google.com/store/apps/details?id=com.cherryfactory.sortingbags**
+- 📝 References **[Hackaday Report](https://hackaday.com/2022/05/31/remote-screen-viewer-is-text-only) / [Bug Bounty](https://hackerone.com/louis-e/badges?type=user)**
 
 - 📫 Reach me over **info@louisdev.de**
 
