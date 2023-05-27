@@ -6,11 +6,15 @@
 
 <h4>Updates</h4>
 
-- ⚙️ I’m currently working on **[ASMOC (Another Simple Modular Object Classifier)](https://github.com/louis-e/ASMOC)**
+- ⚙️ I’m currently working on a **portable RTL-SDR satellite groundstation**
 
 <h4>Open Source Projects</h4>
 
 - 🏙️ Minecraft Real Life City Generator Algorithm **[Arnis](https://github.com/louis-e/arnis)**
+
+- 🧠 OpenAI GPT Proof of Concept **[Order Terminal](https://github.com/louis-e/gpt-order-terminal)**
+
+- 👁 Machine Learning / Computer Vision **[ASMOC (Another Simple Modular Object Classifier)](https://github.com/louis-e/ASMOC)**
 
 - 📚 Implementation of the **[Library of Babel Algorithm](https://github.com/louis-e/LibraryOfBabel-Python)**
 
@@ -18,9 +22,9 @@
 
 - 🌌 Space & Science fanatic **[Mars](https://louisdev.de/mars) / [Scraper](https://github.com/louis-e/mars-rover-camera-scraper) / [AstroPiCam](https://github.com/louis-e/astropicam) / [EPIC](https://github.com/louis-e/nasa-api-earthpolychromaticimagingcamera)**
 
-- 🌐 Check out my international geocaching project **https://worldstones.de**
+- 🌐 International geocaching project **https://worldstones.de**
 
-- 🎮 Play my games on the Google Play Store **[Liftoff](https://play.google.com/store/apps/details?id=com.cherryfactory.liftoff) ([Web Version](https://louisdev.de/liftoff)) / [SortingBags](https://play.google.com/store/apps/details?id=com.cherryfactory.sortingbags)**
+- 🎮 Mobile Games on the Google Play Store **[Liftoff](https://play.google.com/store/apps/details?id=com.cherryfactory.liftoff) ([Web Version](https://louisdev.de/liftoff)) / [SortingBags](https://play.google.com/store/apps/details?id=com.cherryfactory.sortingbags)**
 
 <h4>Other</h4>
 
