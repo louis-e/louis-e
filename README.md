@@ -10,6 +10,8 @@
 
 <h4>Open Source Projects</h4>
 
+- 🛰 Automated Satellite Tracking and Precise Frequency Recording Tool **[SatelliteFreqMon](https://github.com/louis-e/SatelliteFreqMon)**
+
 - 🏙️ Minecraft Real Life City Generator Algorithm **[Arnis](https://github.com/louis-e/arnis)**
 
 - 🧠 OpenAI GPT Proof of Concept **[Order Terminal](https://github.com/louis-e/gpt-order-terminal)**
