@@ -6,19 +6,21 @@
 
 <h4>Updates</h4>
 
-- ⚙️ I’m currently working on a **portable RTL-SDR satellite groundstation**
+- ⚙️ I’m currently working on a **GeoGuessr clone and a portable RTL-SDR satellite groundstation**
 
 <h4>Open Source Projects</h4>
 
 - 🛰 Automated Satellite Tracking and Precise Frequency Recording Tool **[SatelliteFreqMon](https://github.com/louis-e/SatelliteFreqMon)**
+
+- 📚 Implementation of the **[Library of Babel Algorithm](https://github.com/louis-e/LibraryOfBabel-Python)**
+
+- 🗺 GeoGuesser Game Clone **[OpenStreetGuesser](https://github.com/louis-e/OpenStreetGuesser)**
 
 - 🏙️ Minecraft Real Life City Generator Algorithm **[Arnis](https://github.com/louis-e/arnis)**
 
 - 🧠 OpenAI GPT Proof of Concept **[Order Terminal](https://github.com/louis-e/gpt-order-terminal)**
 
 - 👁 Machine Learning / Computer Vision **[ASMOC (Another Simple Modular Object Classifier)](https://github.com/louis-e/ASMOC)**
-
-- 📚 Implementation of the **[Library of Babel Algorithm](https://github.com/louis-e/LibraryOfBabel-Python)**
 
 - 🖥️ Command line remote screen viewer **[cli-screenview](https://github.com/louis-e/cli-screenview)**
 
