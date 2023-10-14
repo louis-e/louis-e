@@ -6,7 +6,7 @@
 
 <h4>Updates</h4>
 
-- ⚙️ I’m currently working on a **GeoGuessr clone** and a **portable RTL-SDR satellite groundstation**
+- ⚙️ I’m currently working on a **Python Exoplanet Finder**
 
 <h4>Open Source Projects</h4>
 
