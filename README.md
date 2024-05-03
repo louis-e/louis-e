@@ -6,7 +6,7 @@
 
 <h4>Updates</h4>
 
-- ⚙️ I’m currently working on a **Python Exoplanet Finder**
+- ⚙️ I’m currently working on **nothing specific personally at the moment, but on a lot of cool things professionally right now!**
 
 <h4>Open Source Projects</h4>
 
