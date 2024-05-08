@@ -1,9 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Louis</h1>
 <h3 align="center">Software Developer</h3>
 
-[![wakatime](https://wakatime.com/badge/user/731b2c19-257a-423c-b667-818a4597635e.svg?style=flat)](https://wakatime.com/@731b2c19-257a-423c-b667-818a4597635e)
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=louis-e" alt="louis-e" /> </p> -->
-
 <h4>Updates</h4>
 
 - ⚙️ I’m currently working on **nothing specific personally at the moment, but on a lot of cool things professionally right now!**
@@ -15,10 +12,6 @@
 - 🛰 Automated Satellite Tracking and Precise Frequency Recording Tool **[SatelliteFreqMon](https://github.com/louis-e/SatelliteFreqMon)**
 
 - 📚 Implementation of the **[Library of Babel Algorithm](https://github.com/louis-e/LibraryOfBabel-Python)**
-
-- 🧠 OpenAI GPT Proof of Concept **[Order Terminal](https://github.com/louis-e/gpt-order-terminal)**
-
-- 👁 Machine Learning / Computer Vision **[ASMOC (Another Simple Modular Object Classifier)](https://github.com/louis-e/ASMOC)**
 
 - 🖥️ Command line remote screen viewer **[cli-screenview](https://github.com/louis-e/cli-screenview)**
 
