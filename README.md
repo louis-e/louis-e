@@ -3,7 +3,7 @@
 
 <h4>Updates</h4>
 
-- ⚙️ I’m currently working on **nothing specific personally at the moment, but on a lot of cool things professionally right now!**
+- ⚙️ I’m currently working on **building computers on wheels!**
 
 <h4>Open Source Projects</h4>
 
