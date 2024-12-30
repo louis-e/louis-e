@@ -23,11 +23,16 @@
 
 - 🎮 Mobile Games with +100k players **[Liftoff](https://play.google.com/store/apps/details?id=com.cherryfactory.liftoff) ([Web Version](https://louisdev.de/liftoff)) / [SortingBags](https://play.google.com/store/apps/details?id=com.cherryfactory.sortingbags)**
 
-<h4>Other</h4>
+<h4>References of my work</h4>
 
-- 📝 References **[Hackaday Report](https://hackaday.com/2022/05/31/remote-screen-viewer-is-text-only) / [Bug Bounty](https://hackerone.com/louis-e/badges?type=user)**
+- [Harvard / MIT: 'Nintendo Etherstream'](https://fpga.mit.edu/videos/2023/team41/report.pdf)
+- [University of Iowa: '[...] Interactive Learning Environment using Minecraft for Flood Mitigation and Preparedness for K-12 Education'](https://www.researchgate.net/publication/384644535_Floodcraft_Game-based_Interactive_Learning_Environment_using_Minecraft_for_Flood_Mitigation_and_Preparedness_for_K-12_Education)
+- [Ikuh: 'EINEN GROSSEN STEIN INS ROLLEN BRINGEN' (Worldstones)](https://www.kljb-eichstaett.de/ikuh/)
+- [Hackaday: Report 'CLI Screen Viewer'](https://hackaday.com/2022/05/31/remote-screen-viewer-is-text-only)
+- [Bug Bounty](https://hackerone.com/louis-e/badges?type=user)
 
-- 📫 Reach me at **info@louisdev.de**
+
+📫 Reach me at **info@louisdev.de**
 
 My top projects are listed below at the pinned tab.
 
