@@ -3,7 +3,7 @@
 
 <h4>Updates</h4>
 
-- ⚙️ I’m currently working on **awesome new features for [Arnis](https://github.com/louis-e/arnis)!**
+- ⚙️ I’m currently working on **implementing elevation data into [Arnis](https://github.com/louis-e/arnis)!**
 
 <h4>Open Source Projects</h4>
 
