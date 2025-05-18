@@ -23,7 +23,7 @@
 
 - 🎮 Mobile Games with +100k players **[Liftoff](https://play.google.com/store/apps/details?id=com.cherryfactory.liftoff) ([Web Version](https://louisdev.de/liftoff)) / [SortingBags](https://play.google.com/store/apps/details?id=com.cherryfactory.sortingbags)**
 
-<h4>References of my work</h4>
+<h4>Citations</h4>
 
 - [Harvard / MIT: 'Nintendo Etherstream'](https://fpga.mit.edu/videos/2023/team41/report.pdf)
 - [University of Iowa: '[...] Interactive Learning Environment using Minecraft for Flood Mitigation and Preparedness for K-12 Education'](https://www.researchgate.net/publication/384644535_Floodcraft_Game-based_Interactive_Learning_Environment_using_Minecraft_for_Flood_Mitigation_and_Preparedness_for_K-12_Education)
