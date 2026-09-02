@@ -3,7 +3,7 @@
 
 <h4>Updates</h4>
 
-- ⚙️ I’m currently working on **implementing elevation data into [Arnis](https://github.com/louis-e/arnis)!**
+- ⚙️ I’m currently working on **extracting facade textures from panoramas using OSM footprints and SfM point clouds: [orthofacade](https://github.com/louis-e/orthofacade)**
 
 <h4>Open Source Projects</h4>
 
